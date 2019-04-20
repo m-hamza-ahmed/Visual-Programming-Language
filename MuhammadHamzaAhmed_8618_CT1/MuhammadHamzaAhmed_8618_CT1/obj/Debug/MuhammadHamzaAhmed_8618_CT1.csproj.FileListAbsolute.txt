@@ -1,0 +1,9 @@
+C:\Users\1000.NK\Documents\Visual Studio 2015\Projects\MuhammadHamzaAhmed_8618_CT1\MuhammadHamzaAhmed_8618_CT1\bin\Debug\MuhammadHamzaAhmed_8618_CT1.exe.config
+C:\Users\1000.NK\Documents\Visual Studio 2015\Projects\MuhammadHamzaAhmed_8618_CT1\MuhammadHamzaAhmed_8618_CT1\bin\Debug\MuhammadHamzaAhmed_8618_CT1.exe
+C:\Users\1000.NK\Documents\Visual Studio 2015\Projects\MuhammadHamzaAhmed_8618_CT1\MuhammadHamzaAhmed_8618_CT1\bin\Debug\MuhammadHamzaAhmed_8618_CT1.pdb
+C:\Users\1000.NK\Documents\Visual Studio 2015\Projects\MuhammadHamzaAhmed_8618_CT1\MuhammadHamzaAhmed_8618_CT1\obj\Debug\MuhammadHamzaAhmed_8618_CT1.csprojResolveAssemblyReference.cache
+C:\Users\1000.NK\Documents\Visual Studio 2015\Projects\MuhammadHamzaAhmed_8618_CT1\MuhammadHamzaAhmed_8618_CT1\obj\Debug\MuhammadHamzaAhmed_8618_CT1.Form1.resources
+C:\Users\1000.NK\Documents\Visual Studio 2015\Projects\MuhammadHamzaAhmed_8618_CT1\MuhammadHamzaAhmed_8618_CT1\obj\Debug\MuhammadHamzaAhmed_8618_CT1.Properties.Resources.resources
+C:\Users\1000.NK\Documents\Visual Studio 2015\Projects\MuhammadHamzaAhmed_8618_CT1\MuhammadHamzaAhmed_8618_CT1\obj\Debug\MuhammadHamzaAhmed_8618_CT1.csproj.GenerateResource.Cache
+C:\Users\1000.NK\Documents\Visual Studio 2015\Projects\MuhammadHamzaAhmed_8618_CT1\MuhammadHamzaAhmed_8618_CT1\obj\Debug\MuhammadHamzaAhmed_8618_CT1.exe
+C:\Users\1000.NK\Documents\Visual Studio 2015\Projects\MuhammadHamzaAhmed_8618_CT1\MuhammadHamzaAhmed_8618_CT1\obj\Debug\MuhammadHamzaAhmed_8618_CT1.pdb
