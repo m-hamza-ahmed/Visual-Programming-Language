@@ -1,0 +1,5 @@
+c:\users\sami ahmed\documents\visual studio 2015\Projects\MuhammadHamzaAhmed_8618_CT3\MuhammadHamzaAhmed_8618_CT3\bin\Debug\MuhammadHamzaAhmed_8618_CT3.dll
+c:\users\sami ahmed\documents\visual studio 2015\Projects\MuhammadHamzaAhmed_8618_CT3\MuhammadHamzaAhmed_8618_CT3\bin\Debug\MuhammadHamzaAhmed_8618_CT3.pdb
+c:\users\sami ahmed\documents\visual studio 2015\Projects\MuhammadHamzaAhmed_8618_CT3\MuhammadHamzaAhmed_8618_CT3\obj\Debug\MuhammadHamzaAhmed_8618_CT3.csprojResolveAssemblyReference.cache
+c:\users\sami ahmed\documents\visual studio 2015\Projects\MuhammadHamzaAhmed_8618_CT3\MuhammadHamzaAhmed_8618_CT3\obj\Debug\MuhammadHamzaAhmed_8618_CT3.dll
+c:\users\sami ahmed\documents\visual studio 2015\Projects\MuhammadHamzaAhmed_8618_CT3\MuhammadHamzaAhmed_8618_CT3\obj\Debug\MuhammadHamzaAhmed_8618_CT3.pdb

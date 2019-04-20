@@ -1,0 +1,11 @@
+You are allowed to read and learn following from internet but do not copy & paste the text. EXPLAIN IN YOUR OWN WORDS. 
+1. The difference between GENRIC LIST<> and Array. 
+
+2. Explain the difference between Read(), ReadLine() and ReadKey(). 
+
+3. How to design class library? Make a PowerPoint Slides for Step by Step Procedure and explain each step. You are required to add 
+screen shots of each step in meaningful manner. Conclude the last slide by answering "when class library is/will-be helpful?" 
+
+4. Create a GUI Application forms for using class library for Point of Sales. The item price are fixed and user will be asked to 
+add/enter the quantity wish to buy. The price and product name can be displayed on form using Label. Make it sure that the collected 
+data stores in LIST<>. There will be a button of STORE to store all the LIST<> Items in External TEXT file. 
